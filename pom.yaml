@@ -13,8 +13,8 @@
 
   <distributionManagement>
     <repository>
-      <id>user-name</id>
-      <url>https://maven.pkg.github.com/username/RepoName</url>
+      <id>jeringeor</id>
+      <url>https://maven.pkg.github.com/jeringeor/git-action-3</url>
     </repository>
   </distributionManagement>
 </project>
